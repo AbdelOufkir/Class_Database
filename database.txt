@@ -1,0 +1,17 @@
+Course|ET575|Joann Sun|4|5|12
+Student|Anthony|Hopkins|74,94,76,40,
+Student|John|Cusack|34,54,68,54,
+Student|Joan|Rivers|77,66,56,97,
+Student|Jared|Leto|76,45,77,88,
+Student|Nathan|Lane|76,45,77,88,
+Course|ET580|Steve Trowbridge|4|3|12
+Student|Keith|Richards|60,70,80,90,
+Student|Jimmy|Page|65,75,85,95,
+Student|Eric|Clapton|70,80,90,100,
+Course|ET585|Marvin Gayle|3|5|12
+Student|Joel|Zimmerman|49,92,50,
+Student|Trent|Reznor|72,68,55,
+Student|Cevin|Key|98,53,62,
+Student|Rogers|Nelson|45,73,67,
+Student|Richard|James|87,46,87,
+Course|ET560|Belle Birchfield|4|0|15
